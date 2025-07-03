@@ -1,0 +1,10 @@
+OUTPUT:
+
+Best Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Best CV Score: 0.9758241758241759
+Cross-Validation Accuracy Scores: [0.85087719 0.89473684 0.92982456 0.94736842 0.9380531 ]
+Mean Accuracy: 0.9121720229777983
+Best Parameters: {'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}
+Best CV Score: 0.9758241758241759
+Cross-Validation Accuracy Scores: [0.85087719 0.89473684 0.92982456 0.94736842 0.9380531 ]
+Mean Accuracy: 0.9121720229777983
